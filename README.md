@@ -19,6 +19,8 @@ I'm Nadhrah. I've done my bachelor's degree in Physics. Currently, I've keep lea
 - [Alex The Analyst](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=T64nTWptPiwH8yqY) channel is the one I most recommend to beginners
 - I've also completed Google Data Analytics Course Certificate [(view certificate here)](https://coursera.org/share/5c687c098cfcfd67c14dad63bd1c4e8d)
 
+### **Contact me**
+nurnadhrah98@gmail.com
 <!--
 **NurNadhrah/NurNadhrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
