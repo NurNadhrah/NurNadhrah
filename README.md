@@ -20,7 +20,8 @@ I'm Nadhrah. I've done my bachelor's degree in Physics. Currently, I've keep lea
 - I've also completed Google Data Analytics Course Certificate [(view certificate here)](https://coursera.org/share/5c687c098cfcfd67c14dad63bd1c4e8d)
 
 ### ✨ **My Portfolio Project**
-- [Case Study 1: Bellabeat Smart Device Usage](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage) 
+1. Bellabeat Smart Device Usage](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage)
+2. [Sales insight](https://github.com/NurNadhrah/Sales-Insight-Portfolio-Project)
 
 ### 📫 **Contact me**
 nurnadhrah98@gmail.com
